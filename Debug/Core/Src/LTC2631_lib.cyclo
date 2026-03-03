@@ -1,0 +1,5 @@
+../Core/Src/LTC2631_lib.c:12:19:LTC2631_Init	1
+../Core/Src/LTC2631_lib.c:20:19:LTC2631_SendCommand	1
+../Core/Src/LTC2631_lib.c:32:19:LTC2631_SetRawValue	1
+../Core/Src/LTC2631_lib.c:37:19:LTC2631_PowerDown	1
+../Core/Src/LTC2631_lib.c:41:19:LTC2631_SetVoltage	3
